@@ -1,4 +1,4 @@
-const Sequilize = require('sequilize');
+const Sequilize = require('sequelize');
 
 require('dotenv').config();
 
